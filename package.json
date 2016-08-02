@@ -23,6 +23,8 @@
     },
     "dependencies": {},
     "devDependencies": {
-        "rollup": "0.33"
+        "rollup": "0.33",
+        "rollup-plugin-uglify": "1.0.1",
+        "uglify-js2": "2.1.11"
     }
 }
